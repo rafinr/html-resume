@@ -1,0 +1,11 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+img.pfp {
+    height: 200px;
+}
